@@ -31,4 +31,4 @@ To use this application, you need an API key from OpenWeather. Follow these step
 
 <!-- here i need you to add the instructions  -->
 1. install teh node modules with npm install 
-2. you can run the project in a dev mode using npm run dev or ....
+2. you can run the project in a dev mode using "npm run dev " or in production mode using "npm run build && npm start
