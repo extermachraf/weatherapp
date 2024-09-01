@@ -26,3 +26,14 @@ To use this application, you need an API key from OpenWeather. Follow these step
    Open the `.env` file and add the following line, replacing `"your-secret-key"` with your actual OpenWeather API key:
    ```env
    NEXT_PUBLIC_OPENWEATHER_API_KEY="your-secret-key"
+
+## Run the Next.js Project
+
+To run the Next.js project, follow these steps:
+
+1. **Install dependencies**: This will install all necessary packages.
+2. **Build the project**: This compiles the project for production.
+3. **Start the server**: This runs the project in production mode.
+
+```shell
+npm i && npm run build && npm start
