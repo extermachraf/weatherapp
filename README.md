@@ -26,9 +26,3 @@ To use this application, you need an API key from OpenWeather. Follow these step
    Open the `.env` file and add the following line, replacing `"your-secret-key"` with your actual OpenWeather API key:
    ```env
    NEXT_PUBLIC_OPENWEATHER_API_KEY="your-secret-key"
-
-### 2. run the project
-
-<!-- here i need you to add the instructions  -->
-1. install teh node modules with npm install 
-2. you can run the project in a dev mode using "npm run dev " or in production mode using "npm run build && npm start
